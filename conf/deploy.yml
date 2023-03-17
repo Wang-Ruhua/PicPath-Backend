@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.138.0.2:9200"
+  username: "admin"
+  password: "project123"
+
+gcs:
+  bucket: "goproject"
+
+token:
+  secret: "secret"
